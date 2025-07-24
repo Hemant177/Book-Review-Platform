@@ -154,11 +154,11 @@ Interactive popups notify users of actions like **“Login Successfully”** or 
 
 | Login Page | Dashboard | Book Details |
 |------------|-----------|--------------|
-| ![Login](Screenshots/login.jpg) | ![Dashboard](Screenshots/dashboard.jpg) | ![Book Details](Screenshots/book-details.jpg) |
+| ![Login](Screenshot/login.jpg) | ![Dashboard](Screenshot/dashboard.jpg) | ![Book Details](Screenshot/book-details.jpg) |
 
 | Add Review | Watchlist | Success Popup |
 |------------|-----------|---------------|
-| ![Add Review](Screenshots/add-review.jpg) | ![User Profile](Screenshots/userlogin.png)  |
+| ![Add Review](Screenshot/add-review.jpg) | ![User Profile](Screenshot/userlogin.png)  |
 
 *(Replace with your actual screenshot paths)*  
 
