@@ -1,58 +1,58 @@
-# Book-Review-Platform
-Book Review Platform is a full-stack web app where users can sign up, log in, browse books, add reviews, and manage a watchlist. Built with React.js (frontend) and Flask (backend), it uses JWT authentication, REST APIs, and a SQL database. Interactive popups notify users of actions like “Login Successfully” or “Book Added Successfully.”
-# 📚 Book Review Platform
+# 📚 Book Review Platform  
 
-A modern web application for browsing, reviewing, and managing books.  
-Users can **sign up, log in, search for books, add reviews, and manage their watchlist.**  
+**Book Review Platform** is a **full-stack web application** where users can **sign up, log in, browse books, add reviews, and manage a watchlist.**  
 
-After each action (login, signup, book addition), a **popup notification** confirms the success or failure of the operation.
+Built with **React.js (frontend)** and **Flask (backend)**, it uses **JWT authentication, REST APIs, and a SQL database.**  
+Interactive **SweetAlert2 popups** notify users of actions like **“Login Successfully”** or **“Book Added Successfully.”**  
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
-✅ **User Authentication**
+✅ **User Authentication**  
 - Sign up & login with JWT authentication  
 - After login, a popup shows **"Login Successfully"**  
 - Logout option with confirmation  
 
-✅ **Book Browsing**
+✅ **Book Browsing**  
 - Search books by title, author, or genre  
 - View detailed book info with cover image & description  
 
-✅ **Book Reviews**
+✅ **Book Reviews**  
 - Add, edit, and delete reviews  
-- Success popup: **"Book Added Successfully"**  
 - Star rating system (1–5 stars)  
+- Success popup: **"Book Added Successfully"**  
 
-✅ **Watchlist**
+✅ **Watchlist**  
 - Add books to your personal watchlist  
 - Remove from watchlist anytime  
 
-✅ **Notifications**
+✅ **Notifications**  
 - SweetAlert2 popups for success, errors, and confirmations  
 
-✅ **Responsive UI**
+✅ **Responsive UI**  
 - Mobile-friendly design with a clean, modern look  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack  
 
-### Frontend
-- **React.js** – UI framework  
-- **React Router** – Navigation  
-- **Axios** – API requests  
-- **TailwindCSS / Bootstrap** – Styling  
-- **SweetAlert2** – Popups for success/error messages  
+**Frontend**  
+- React.js – UI framework  
+- React Router – Navigation  
+- Axios – API requests  
+- TailwindCSS / Bootstrap – Styling  
+- SweetAlert2 – Popups for success/error messages  
 
-### Backend
-- **Python Flask** – REST API backend  
-- **Flask-JWT-Extended** – Authentication  
-- **SQLite / MySQL** – Database  
-- **SQLAlchemy** – ORM  
+**Backend**  
+- Python Flask – REST API backend  
+- Flask-JWT-Extended – Authentication  
+- SQLite / MySQL – Database  
+- SQLAlchemy – ORM  
 
 ---
+
+
 
 ## 📂 Project Structure
 Book-Review-Platform/
