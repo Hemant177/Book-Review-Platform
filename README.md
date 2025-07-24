@@ -89,7 +89,7 @@ Book-Review-Platform/
 ## ⚡ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
+bash
 git clone https://github.com/yourusername/Book-Review-Platform.git
 cd Book-Review-Platform
 
@@ -148,8 +148,6 @@ A simple full-stack web app where users can **sign up, log in, browse books, add
 Built with **React.js (frontend)** and **Flask (backend)** using **JWT authentication, REST APIs, and SQL database**.  
 Interactive popups notify users of actions like **“Login Successfully”** or **“Book Added Successfully.”**  
 
----
-
 ## 🖼️ Screenshots  
 
 | Login Page | Dashboard | Book Details |
@@ -158,11 +156,11 @@ Interactive popups notify users of actions like **“Login Successfully”** or 
 
 | Add Review | Watchlist | Success Popup |
 |------------|-----------|---------------|
-| ![Add Review](Screenshot/add-review.jpg) | ![User Profile](Screenshot/userlogin.png)  |
+| ![Add Review](Screenshot/add-review.jpg) |  ![User Profile](Screenshot/userlogin.png) |
 
-*(Replace with your actual screenshot paths)*  
 
----
+
+
 
 ## 🚀 Features  
 ✅ User Authentication with JWT  
